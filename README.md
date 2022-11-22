@@ -16,6 +16,7 @@ kubectl apply -f pod.yaml
 kubectl apply -f service.yaml
 
 http://localhost:8080/echo/anymessagehere
+
 http://localhost:8080/api/v1/version/k8s
 
 
